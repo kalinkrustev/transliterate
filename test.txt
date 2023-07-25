@@ -1,0 +1,14 @@
+8690ms 16840us/step - loss=0.942 val_loss=0.966
+
+      128 / 32 25248ms 16299us/step - loss=0.608 val_loss=0.687
+       64 / 22 23779ms 15351us/step - loss=0.849 val_loss=0.887
+      128 / 22 36582ms 23617us/step - loss=0.806 val_loss=0.808
+      128 / 64 26061ms 16824us/step - loss=0.169 val_loss=0.203
+200 /  48 / 48   28377ms 16160us/step - loss=1.09e-3 val_loss=0.0357
+100 /  64 / 64   70585ms  8304us/step - loss=1.88e-3 val_loss=0.0244
+273 /  64 / 128 152579ms 17951us/step - loss=3.71e-4 val_loss=0.0272
+       20 / 128 145813ms 17155us/step - loss=0.364 val_loss=0.202
+300 /  20 / 32  116323ms 13685us/step - loss=3.86e-3 val_loss=0.0388
+232 /  20 / 20  119389ms 14046us/step - loss=0.0601 val_loss=0.0835
+112 /   4 / 32    7425ms 14851us/step - loss=1.17 val_loss=1.40
+300 /   4 / 32  116067ms 13655us/step - loss=7.23e-3 val_loss=0.0265
